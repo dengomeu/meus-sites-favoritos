@@ -1,6 +1,6 @@
 # Meus sites favoritos - DS: Fichário 12 
 
-Este projeto foi desenvolvido como parte de uma atividade prática para a disciplina de **Desenvolvimento Web**. O objetivo é criar uma página estruturada em HTML5 que organize e apresente meus sites favoritos, utilizando boas práticas de “tags” (marcações).
+Este projeto foi desenvolvido como parte de uma atividade para a disciplina de **Desenvolvimento de Sistemas**. O objetivo é criar uma página estruturada em HTML5 que organize e apresente meus sites favoritos, utilizando boas práticas de “tags” (marcações).
 
 ## 🚀 Tecnologias utilizadas
 - **HTML5**: utilização de tags como figure, figcaption e h1 para garantir acessibilidade e clareza estrutural.
