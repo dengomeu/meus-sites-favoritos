@@ -1,13 +1,13 @@
-# Meus Sites Favoritos - Atividade Acadêmica
+# Meus sites favoritos - DS: Fichário 12 
 
-Este projeto foi desenvolvido como parte de uma atividade prática para a disciplina de **Desenvolvimento Web**. O objetivo é criar uma página estruturada em HTML5 que organize e apresente meus sites favoritos, utilizando boas práticas de marcação.
+Este projeto foi desenvolvido como parte de uma atividade prática para a disciplina de **Desenvolvimento Web**. O objetivo é criar uma página estruturada em HTML5 que organize e apresente meus sites favoritos, utilizando boas práticas de “tags” (marcações).
 
-## 🚀 Tecnologias Utilizadas
-- **HTML5**: Estruturação de conteúdo.
-- **Git/GitHub**: Controle de versão e hospedagem.
-- **VS Code**: Editor de código.
+## 🚀 Tecnologias utilizadas
+- **HTML5**: utilização de tags como <figure>, <figcaption> e <h1> para garantir acessibilidade e clareza estrutural.
+- **Git & GitHub**: controle de versão e hospedagem.
+- **VS Code**: editor de código.
 
-## 📋 Requisitos da Atividade
+## 📋 Requisitos da atividade
 - [x] Título da aba: "Meus sites favoritos".
 - [x] Título do corpo: "Meus sites favoritos: Denis Gomes".
 - [x] Inclusão de 5 sites com: Nome, Imagem, Link e Descrição.
@@ -15,8 +15,12 @@ Este projeto foi desenvolvido como parte de uma atividade prática para a discip
 - [x] Link funcional nas imagens e em texto.
 
 ## 🌐 Sites Selecionados
-1. **Last.fm** - Rede social musical.
-2. **Banco de Séries** - Organização de seriados.
-3. **Filmow** - Rede social de cinema.
-4. **Skoob** - Estante virtual para livros.
-5. **Notícias da TV** - Portal de notícias de entretenimento.
+1. **Last.fm** - rede social musical.
+2. **Banco de Séries** - organização de seriados.
+3. **Filmow** - rede dedicada à cinefilia, avaliações e catálogos de filmes.
+4. **Skoob** - estante virtual para livros.
+5. **Notícias da TV** - portal de notícias de entretenimento.
+
+## 📂 Como visualizar
+1. Clone este repositório ou baixe o arquivo `index.html`.
+2. Abra o arquivo em qualquer navegador para ver a lista em funcionamento.
